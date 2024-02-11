@@ -1,0 +1,7 @@
+Build a visual data story or dashboard using PowerBI topresent to your Stakeholders
+
+1."Is our hotel revenue growing by year?"
+
+2."Should we increase our parking lot size?"
+
+3."What trends can we see in the data?"
